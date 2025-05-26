@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/rahmmedbd1" target="blank"><img src="https://img.shields.io/twitter/follow/rahmmedbd1?logo=twitter&style=for-the-badge" alt="rahmmedbd1" /></a> </p>
 
-- 🔭 I’m currently working on [Daily Krishikantho](https://krishikantho.com/)
+- 🔭 I’m currently working on [Bangladesh Driving Training Institute](https://beta.bddti.com/)
 
 - 🌱 I’m currently learning **Next Js, GraphQL, Aws, Docker**
 
