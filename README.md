@@ -14,7 +14,7 @@
 
 ### 🚀 The Mission
 I bridge the gap between complex business requirements and high-performance software. Currently focused on:
-* 🏗️ **Scaling [RSoftSolution BD](https://rsoftsolution.com)** – Delivering enterprise-grade automation.
+* 🏗️ **Scaling [RSoftSolution BD](https://rsoftsolutionbd.com)** – Delivering enterprise-grade automation.
 * 📦 **Product Development:** Optimizing **Raventory** (ERP/Inventory) and **BDDTI** (School Management).
 * 🛠️ **System Design:** Building microservices using **Docker**, **AWS**, and **GraphQL**.
 
